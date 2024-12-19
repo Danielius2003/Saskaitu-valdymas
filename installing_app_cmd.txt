@@ -1,0 +1,1 @@
+pyinstaller --onefile --hidden-import=openpyxl --hidden-import=custontkinter --hidden-import=num2words --hidden-import=openpyxl.cell._writer --hidden-import=openpyxl.cell --icon=icon.ico Sąskaitų_valdymas.py
