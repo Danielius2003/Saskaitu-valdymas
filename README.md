@@ -21,8 +21,9 @@
 
 ## App
  - Made using python
- - In the App folder - Sąskaitų_valdymas. 
+ - The app is stored in the "App" folder - "Sąskaitų_valdymas". 
  - Can be made into a seperate app using information from the installing_app_cmd.txt file
+ - For now made into a single file, because working alone, but can be extended into seperate files for clarity
 
 ## Custom password
 If the user wishes to send these pdf files, he must generate an app password:
